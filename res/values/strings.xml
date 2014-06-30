@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FaceBro</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_id">299242563584016</string>
+    <string name="get_started">Para iniciar, efetue login com Facebook</string>
+    <string name="logged">Bem Vindo(a), você está logado</string>
+    <string name="loggout">Log Out</string>
+
+</resources>
